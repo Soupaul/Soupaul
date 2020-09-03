@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Souparno Paul.
 
 <!--
 **Soupaul/Soupaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🔭 I’m currently working on GLUG App, for the GNU/Linux Users' Group.
+
+#### 🌱 I’ve made projects on Flutter and NodeJS.
+
+#### 🌱 I've had a brief taste of Game Development in Java,JS and Unity.
+
+#### 🌱 I’m currently learning about Software and Cyber Security to prepare for Capture The Flag competitions, along with basics of Python.
+
+#### 📫 How to reach me: You can reach out to me on my personal email address at souparnopaul@gmail.com.
+
+##### 😄 Pronouns: He/Him
