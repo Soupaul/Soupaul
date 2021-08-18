@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔭 I’m currently working on GLUG App, for the GNU/Linux Users' Group.
+#### 🔭 I’m currently working on ADkit, an Anaemia Detection App, under [MeitY](https://www.meity.gov.in/).
 
 #### 🌱 I’ve made projects on Flutter and NodeJS.
 
 #### 🌱 I've had a brief taste of Game Development in Java,JS and Unity.
 
-#### 🌱 I’m currently learning about Software and Cyber Security to prepare for Capture The Flag competitions, along with basics of Python.
+#### 🌱 I’m currently sharpening my skills in Data Structures and Algorithms in C++.
 
 #### 📫 How to reach me: You can reach out to me on my personal email address at souparnopaul@gmail.com.
 
