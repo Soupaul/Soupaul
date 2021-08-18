@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently working on ADkit, an Anaemia Detection App, under [MeitY](https://www.meity.gov.in/).
 
-#### 🌱 I’ve made projects on Flutter and NodeJS.
+#### 🌱 I’ve made projects on Flutter, React Native and NodeJS.
 
 #### 🌱 I've had a brief taste of Game Development in Java,JS and Unity.
 
