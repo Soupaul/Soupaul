@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔭 I’m currently working on ADkit, an Anaemia Detection App, under [MeitY](https://www.meity.gov.in/).
+#### 🔭 I’ve worked on ADkit, an Anaemia Detection App, under [MeitY](https://www.meity.gov.in/).
 
-#### 🌱 I’ve made projects on Flutter, React Native and NodeJS.
+#### 🌱 I’ve made projects in Flutter, React Native, React, NodeJS, and Spring Boot.
 
 #### 🌱 I've had a brief taste of Game Development in Java,JS and Unity.
 
-#### 🌱 I’m currently sharpening my skills in Data Structures and Algorithms in C++.
+#### 🌱 I’m currently working on hobby projects of my own. Do check out ncs_music_app and ncs-demo-api if interested.
 
 #### 📫 How to reach me: You can reach out to me on my personal email address at souparnopaul@gmail.com.
 
